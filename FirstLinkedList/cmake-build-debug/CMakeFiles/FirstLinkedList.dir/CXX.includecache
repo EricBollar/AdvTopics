@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/FirstLinkedList/main.cpp
+iostream
+-
+fstream
+-
+stack
+-
+queue
+-
+set
+-
+map
+-
+

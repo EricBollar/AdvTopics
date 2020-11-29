@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/ADTs_part_II/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+stack
+-
+queue
+-
+map
+-
+set
+-
+

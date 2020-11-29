@@ -1,0 +1,11 @@
+QIs it in the United States?
+QIs it a state capital?
+ABoston
+QIs it in California?
+QIs it in the Bay Area?
+ASan Francisco
+ASanta Barbara
+AChicago
+QIs it in Europe?
+AGdansk
+ABeijing

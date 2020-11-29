@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SHPLexicon"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SpellCheck">
+				<Option output="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/SpellCheck" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 SpellCheck"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SpellCheck/fast">
+				<Option output="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/SpellCheck" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 SpellCheck/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Boggle">
+				<Option output="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/Boggle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 Boggle"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Boggle/fast">
+				<Option output="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/Boggle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 Boggle/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LexiconTest">
+				<Option output="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/LexiconTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 LexiconTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LexiconTest/fast">
+				<Option output="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/LexiconTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 LexiconTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/bogglemain.cpp">
+			<Option target="Boggle"/>
+		</Unit>
+		<Unit filename="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/lexiconmain.cpp">
+			<Option target="LexiconTest"/>
+		</Unit>
+		<Unit filename="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/shplexicon.cpp">
+			<Option target="SpellCheck"/>
+			<Option target="Boggle"/>
+			<Option target="LexiconTest"/>
+		</Unit>
+		<Unit filename="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/shplexicon.h">
+			<Option target="SpellCheck"/>
+			<Option target="Boggle"/>
+			<Option target="LexiconTest"/>
+		</Unit>
+		<Unit filename="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/spellcheckmain.cpp">
+			<Option target="SpellCheck"/>
+		</Unit>
+		<Unit filename="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

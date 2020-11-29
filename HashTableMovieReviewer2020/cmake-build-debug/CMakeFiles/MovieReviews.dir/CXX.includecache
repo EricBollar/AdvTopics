@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/HashTableMovieReviewer2020/WordEntry.h
+string
+-
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/HashTableMovieReviewer2020/moviemain.cpp
+iostream
+-
+fstream
+-
+shphashtable.h
+/Users/ericbollar/Desktop/AdvTopicsInCS/HashTableMovieReviewer2020/shphashtable.h
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/HashTableMovieReviewer2020/shphashtable.h
+string
+-
+WordEntry.h
+/Users/ericbollar/Desktop/AdvTopicsInCS/HashTableMovieReviewer2020/WordEntry.h
+

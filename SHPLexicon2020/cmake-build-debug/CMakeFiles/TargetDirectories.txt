@@ -1,0 +1,5 @@
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/CMakeFiles/SpellCheck.dir
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/CMakeFiles/Boggle.dir
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/cmake-build-debug/CMakeFiles/LexiconTest.dir

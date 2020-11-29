@@ -1,0 +1,66 @@
+Advanced Topics in Computer Science, Honors
+Instructional Policy, fall semester, 2020
+
+Instructor
+Kevin Morris
+Textbooks
+none
+Major Content Areas
+ 
+	Transition to C++
+	Pointers and dynamic memory
+	Linked lists
+	Abstract Data Types (ADTs)
+	Stacks, Queues
+	Vectors, Sets, Maps
+	Recursion
+	Binary Trees
+	Analyzing algorithms, Big-O notation
+	Hash tables
+	Heaps, priority queues
+	Graphs
+ 
+
+Objectives of the Course
+	To develop a knowledge and understanding of pointers and dynamic memory.
+	To learn to solve problems using recursion and recursive data structures.
+	To gain an understanding and an appreciation of common ADTs (abstract data types) and to be able to make a choice of which one would be most useful and appropriate.
+	To be able to implement common ADTs using various data structures.
+	To develop vocabulary and skills to analyze the efficiency of algorithms related to data structures.
+
+Teaching Approach
+Similar to AP Computer Science, what we do in class will vary from day to day.  Most days, however, will fall into one of three categories:
+0.  A lecture based on the new concepts and syntax from the current unit of study.  Students will not use the computers during this time.
+1.  A collaborative programming exercise in which the whole class works on a programming problem.
+2.  Individual, free time to work on the current programming assignment.
+ 
+Homework Policy, Long-term Assignments
+There are three primary types of homework assignments in this class.
+
+	Ten Pointers  This is a relatively easy program assignment that can be reasonably completed in one evening, and will usually be due the next class meeting.
+	Twenty Pointers  This is a slightly more involved programming assignment.  Twenty pointers are roughly twice as much as ten pointers, and will be due two days after they are assigned.
+	Forty Pointers  This is a more difficult, involved programming assignment that cannot reasonably be done in one evening.  Typically a forty pointer will be due one week after it is assigned.
+
+For the purposes of the major assignment calendar, forty pointers are considered major assignments and all other assignments are considered minor assignments.
+Tests and assessments
+Each unit will culminate with a unit assessment.  These assessments will be done in class with the use of a computer.  Typically, the student will be given three small programming tasks, to be completed by herself or himself using CLion.  These assessments are, essentially, open note, as students may want to refer to previous examples or projects.  Most of the time, students will complete the assessment in one class period.  At times, we may complete the assessment over multiple days (for example, we could take the last twenty minutes of class for three consecutive days and complete one question a day).
+Policy on Academic Honesty
+Students are allowed to help each other on homework assignments with general problem solving strategies, ideas, and algorithms, but all solutions should be your own.  In practice, this means that, while students can discuss programs and questions, all lines of code should originate from your own mind.  The most common violation is copying another students code, perhaps by cutting/pasting part of a program, or by reading another students code and then re-typing the code.  
+The honor pledge reads as follows: As a child of the Sacred Heart, I am bound by honor. I will not lie, cheat, or steal, and I agree to act honorably as a student at Sacred Heart Preparatory. 
+Electronic Devices
+Students will be using laptops almost every day in class, and they need to be used responsibly.  In the same way it would be inappropriate to have a magazine on your desk in another class, it is inappropriate to be surfing the Internet or some similar distraction during class time.  The Acceptable Use Policy is explained in the SHP Student Handbook.  
+ 
+Grading Policy
+Assignments = 40%
+This includes all programming assignments, including ten-pointers, twenty-pointers, and forty-pointers.
+Final project = 15%
+This final project will be a programming project incorporating many of the ideas from the course.
+Unit assessments = 40%
+There are five unit tests, which are each worth 8% of your overall grade.
+Subjective = 5%
+Given the unusual state of the world and our remote learning situation, I recognize that not everything will go smoothly.  So, I reserve the right to treat each student as an individual.  Some factors in this category might involve an extended illness, significant improvement, or one difficult unit.  In practice, this grading category can only help the student.  It might, for example, mathematically justify rounding up for one student and not for another.
+Online Posting of Assignments
+I am free for extra help during A, C, and D  periods.  I will also be available during office hours each week, and I will make it clear which office hours I will be available.  Generally, I think it will be the morning, but it might shift as we move through the semester.  Students are welcome and encouraged to email me (kmorris@shschools.org) if they are having difficulty with an assignment. 
+Contact Information
+Kevin Morris, kmorris@shschools.org, 650-787-5376
+

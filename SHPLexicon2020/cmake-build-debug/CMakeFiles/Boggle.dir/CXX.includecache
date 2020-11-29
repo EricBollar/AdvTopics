@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/bogglemain.cpp
+iostream
+-
+fstream
+-
+shplexicon.h
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/shplexicon.h
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/shplexicon.cpp
+iostream
+-
+fstream
+-
+shplexicon.h
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/shplexicon.h
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/SHPLexicon2020/shplexicon.h
+string
+-
+set
+-
+map
+-
+

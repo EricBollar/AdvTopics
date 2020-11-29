@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/VectorProgram/main.cpp
+iostream
+-
+shpvector.h
+/Users/ericbollar/Desktop/AdvTopicsInCS/VectorProgram/shpvector.h
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/VectorProgram/shpvector.cpp
+shpvector.h
+/Users/ericbollar/Desktop/AdvTopicsInCS/VectorProgram/shpvector.h
+iostream
+-
+
+/Users/ericbollar/Desktop/AdvTopicsInCS/VectorProgram/shpvector.h
+
